@@ -62,3 +62,9 @@ This repository contains the final project for the Neural Networks course at Bar
 1. Clone the repository:
    ```bash
    git clone https://github.com/orshahar1/Neural-Networks-Final-Project.git
+
+## Contributors
+- **Or Shahar**
+- **Yuval Ben Shlomo**
+---
+- This project was completed as part of the Neural Networks course at Bar-Ilan university.
